@@ -251,12 +251,12 @@
     "projectRegion": "us-east-2",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1543298010075
+    "lastSave": 1543298203935
   },
   "VCS_STATE": {
     "provider": "GitHub",
     "repo": {
-      "name": "GitTest1",
+      "name": "GitTest12",
       "url": "https://github.com/Kumudikatest/GitTest12"
     }
   }
